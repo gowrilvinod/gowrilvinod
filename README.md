@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gowri</h1>
-<h3 align="center">A passionate Data Science Enthusiast from Kochi, India</h3>
+<h3 align="center">A passionate AI/ML,Data Science  Enthusiast from Kochi, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowrilvinod&label=Profile%20views&color=0e75b6&style=flat" alt="gowrilvinod" /> </p>
 
